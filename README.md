@@ -18,7 +18,7 @@ Nomeroff Net requires Python >= 3.6 and [opencv 3.4 or latest](https://opencv.or
 Clone Project and clone related projects
 ```bash
 git clone https://github.com/ria-com/nomeroff-net.git
-cd nomeroff-ne
+cd nomeroff-net
 ```
 
 ##### For Centos, Fedora and other RedHat-like OS:
